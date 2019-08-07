@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 24 02:29:52 2019
-
-@author: zhangyt
-"""
 import matplotlib
 from matplotlib import pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
