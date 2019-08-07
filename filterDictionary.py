@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 13 16:55:11 2019
-
-@author: 39695
-"""
 
 import re
 
